@@ -4,10 +4,8 @@
   🧑‍💻 <b>C / C++ Developer</b> | Web Learner | Always Curious
 </p>
 
-<table>
-  <tr>
-    <td>
 
+---
 <!-- Left Side Content -->
 
 ### 🛠️ Skills
@@ -18,17 +16,27 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+<!-- Right Side Image -->
+
+
+  <img src="repo.png" width="450" alt="Coding illustration" align = "right" />
+
+---
 ### 📁 Projects
 
 - ✅ Calculator App in C  
 - ✅ Student Record System using File Handling (C++)  
 - ✅ Sweet Shop Website (HTML, CSS, JS)
 
+
+---
 ### 📬 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sy2440052@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithSonu678)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917054161573)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sanatni_boy_678)
+---
 ### 💡 Hobbies
 
 - 🌱 Learning new tech daily  
@@ -36,6 +44,8 @@
 - 🎧 Listening to music while coding  
 - 🤖 Exploring AI & Automation
 
+
+---
 ### 🧠 Quote I Believe In
 
 > “Success is not final, failure is not fatal: It is the courage to continue that counts.”  
@@ -45,8 +55,4 @@
 
 <!-- Right Side Image -->
 
-<td align="center">
-  <img src="https://github.com/yourusername/yourrepo/raw/main/profile-pic.jpg" width="300" alt="Coding illustration" />
-</td>
-  </tr>
-</table>
+
