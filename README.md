@@ -24,10 +24,11 @@
 ---
 ### 📁 Projects
 
-- ✅ Calculator App in C  
+- ✅ Calculator Web in HTML, CSS and JS
 - ✅ Student Record System using File Handling (C++)  
 - ✅ Sweet Shop Website (HTML, CSS, JS)
-
+- ✅ Weather Wed in HTML,CSS and JS
+- ✅ QR-Generator Web in HTML,CSS and JS
 
 ---
 ### 📬 Contact Me
