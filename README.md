@@ -1,7 +1,8 @@
 <h1 align="left">Hi 👋, I'm Sonu Yadav</h1>
 
 <p align="left">
-  🧑‍💻 <b>C / C++ Developer</b> | Web Learner | Always Curious
+  🧑‍💻 <b>✔ Student Record System (C++) – Backend
+✔ Calculator Web (HTML, CSS, JS) – Frontend
 </p>
 
 
