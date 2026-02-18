@@ -52,7 +52,7 @@
 
 <!-- 🔹 Cybersecurity Certificate -->
 <p align="center">
-  <img src="cyber_security_certificate.png" width="700" alt="Cybersecurity Certificate">
+  <img src="cyber_security_certificate.jpg" width="700" alt="Cybersecurity Certificate">
 </p>
 
 <p align="center">
