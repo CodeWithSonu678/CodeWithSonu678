@@ -26,6 +26,7 @@
 ![DSA](https://img.shields.io/badge/-DSA-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=yellow)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Basics-red)
 
 
 <!-- ================= CERTIFICATIONS ================= -->
