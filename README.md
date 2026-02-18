@@ -27,6 +27,28 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+<!-- ================= CERTIFICATIONS ================= -->
+
+## 🏆 Certifications
+
+<p align="center">
+  <img src="python_certificate.png" width="700" alt="Python Certificate">
+</p>
+
+<p align="center">
+  <b>🎓 Python for Beginners — Simplilearn SkillUp</b><br>
+  📅 Completed: <b>18 Feb 2026</b> &nbsp; | &nbsp;
+  🔐 Certificate Code: <b>9859436</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Beginner-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Verified-Certificate-green?style=for-the-badge">
+</p>
+
+<!-- ================================================== -->
+
 <!-- Right Side Image -->
 
 
