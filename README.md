@@ -32,6 +32,7 @@
 
 ## 🏆 Certifications
 
+<!-- 🔹 Python Certificate -->
 <p align="center">
   <img src="python_certificate.png" width="700" alt="Python Certificate">
 </p>
@@ -45,6 +46,25 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Beginner-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Verified-Certificate-green?style=for-the-badge">
+</p>
+
+---
+
+<!-- 🔹 Cybersecurity Certificate -->
+<p align="center">
+  <img src="cyber_security_certificate.png" width="700" alt="Cybersecurity Certificate">
+</p>
+
+<p align="center">
+  <b>🛡️ Cybersecurity — Skill India Digital Hub</b><br>
+  🏢 Tech Mahindra Foundation<br>
+  📅 Completed: <b>26 Sep 2025</b> &nbsp; | &nbsp; ⏱ Duration: <b>10 Hours</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Basics-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Security-Aware-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Skill%20India-Certified-blue?style=for-the-badge">
 </p>
 
 <!-- ================================================== -->
