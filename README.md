@@ -20,12 +20,22 @@
 ---
 
 ### ⚙️ Backend Developer
+![HTML](https://img.shields.io/badge/HTML-Frontend-orange)
+
+![CSS](https://img.shields.io/badge/CSS-Styling-blue)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow)
+
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+
+![Express.js](https://img.shields.io/badge/Express.js-Framework-lightgrey)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DSA](https://img.shields.io/badge/-DSA-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=yellow)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Basics-red)
 
 
