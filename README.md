@@ -20,11 +20,6 @@
 ---
 
 ### ⚙️ Backend Developer
-![HTML](https://img.shields.io/badge/HTML-Frontend-orange)
-
-![CSS](https://img.shields.io/badge/CSS-Styling-blue)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow)
 
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
 
