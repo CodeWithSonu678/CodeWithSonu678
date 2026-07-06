@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Sonu Yadav</h1>
 
 <p align="left">
-  🧑‍💻 <b>Backend-Focused Web Developer | C++ • Python • PHP • MySQL | Frontend Basics
+  🧑‍💻 <b>Full Stack Developer | MERN • Python • PHP • MySQL • Monogodb • C language • C++
 </p>
 
 
