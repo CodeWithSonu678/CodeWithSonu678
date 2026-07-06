@@ -98,6 +98,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithSonu678)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917054161573)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codewithsonu678)
+[![YouTube](https://img.shields.io/badge/@SonuTheCode-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOhCyOiRf2tJuQITbHeaVJQ)
+
 ---
 ### 💡 Hobbies
 
